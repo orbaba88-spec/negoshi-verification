@@ -1,0 +1,1 @@
+# negoshi-verification
